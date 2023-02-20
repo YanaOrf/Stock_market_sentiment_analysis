@@ -12,4 +12,5 @@ archive
 FinancialPhraseBank
 *.json
 get_data_yahoo.ipynb
-
+google_service.py
+main.py
