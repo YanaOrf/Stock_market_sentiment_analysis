@@ -14,3 +14,7 @@ FinancialPhraseBank
 get_data_yahoo.ipynb
 google_service.py
 main.py
+hello.py
+test.js
+yahoo.ipynb
+*.pyc
